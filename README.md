@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5C39,50:FF8C42,100:FFB347&height=280&section=header&text=Shashikant%20Pandey&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20Google%20Student%20Ambassador&descSize=17&descAlignY=58&descColor=ffe8e0"/>
 
 </div>
- 
+  
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=1000&color=FF5C39&center=true&vCenter=true&width=700&lines=Building+clean+%26+responsive+web+apps+%F0%9F%9A%80;React+%2B+Vite+%2B+Tailwind+CSS+Developer+%F0%9F%8E%AF;Google+Student+Ambassador+2025+%F0%9F%8C%9F;Turning+ideas+into+polished+interfaces+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%94%A5" />
