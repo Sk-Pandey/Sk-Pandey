@@ -126,34 +126,6 @@ Consistent practice with Data Structures & Algorithms — building strong logica
 
 <div align="center">
 
-<a href="https://sk-pandey.github.io/LeetLens/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sk-Pandey&repo=LeetLens&theme=dark&bg_color=0D1117&border_color=FF5C39&title_color=FF5C39&icon_color=FF8C42&text_color=ffffff" />
-</a>
-&nbsp;
-<a href="https://sk-pandey.github.io/Sage-University-Indore/index.html">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sk-Pandey&repo=Sage-University-Indore&theme=dark&bg_color=0D1117&border_color=FF5C39&title_color=FF5C39&icon_color=FF8C42&text_color=ffffff" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://sk-pandey.github.io/SpotifyClone/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sk-Pandey&repo=SpotifyClone&theme=dark&bg_color=0D1117&border_color=FF5C39&title_color=FF5C39&icon_color=FF8C42&text_color=ffffff" />
-</a>
-&nbsp;
-<a href="https://sk-pandey.github.io/Zenith/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sk-Pandey&repo=Zenith&theme=dark&bg_color=0D1117&border_color=FF5C39&title_color=FF5C39&icon_color=FF8C42&text_color=ffffff" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 | 🔗 Project | 🛠 Stack | 📝 Description |
 |---|---|---|
 | [**LeetLens**](https://sk-pandey.github.io/LeetLens/) | React · Tailwind · API | LeetCode profile analyser — stats, contest rating & performance trends |
@@ -171,21 +143,10 @@ Consistent practice with Data Structures & Algorithms — building strong logica
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sk-Pandey&show_icons=true&theme=dark&bg_color=0D1117&border_color=FF5C39&title_color=FF5C39&icon_color=FF8C42&text_color=ffffff&rank_icon=github&hide_border=false" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sk-Pandey&layout=compact&theme=dark&bg_color=0D1117&border_color=FF5C39&title_color=FF5C39&text_color=ffffff&langs_count=6&hide_border=false" height="170"/>
-
-</div>
 
 <br/>
 
-<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sk-Pandey&theme=dark&background=0D1117&border=FF5C39&stroke=FF5C39&ring=FF8C42&fire=FFB347&currStreakNum=ffffff&sideNums=FF5C39&currStreakLabel=FF8C42&sideLabels=FF5C39&dates=888888" height="175"/>
-
-</div>
 
 <br/>
 
@@ -195,17 +156,6 @@ Consistent practice with Data Structures & Algorithms — building strong logica
 
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sk-Pandey&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&column=4&rank=SSS,SS,S,AAA,AA,A,B,C"/>
-
-</div>
-
----
 
 ### 🌟 Achievements & Certifications
 
