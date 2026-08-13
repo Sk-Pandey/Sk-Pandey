@@ -1,8 +1,4 @@
-<div align="center">
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5C39,50:FF8C42,100:FFB347&height=280&section=header&text=Shashikant%20Pandey&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20Google%20Student%20Ambassador&descSize=17&descAlignY=58&descColor=ffe8e0"/>
-
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f953c6,75:FF5C39,100:FFB347&height=300&section=header&text=Shashikant%20Pandey&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%A2%20React%20Enthusiast%20%E2%80%A2%20Google%20Student%20Ambassador&descSize=16&descAlignY=62&descColor=ffffff"/> </div> <div align="center">  </div>
  
 <div align="center">
 
