@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/Sk-Pandey">
+<a href="https://github.com/skpandeyyy">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Sk-Pandey&label=Profile+Views&color=FF5C39&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=skpandeyyy&label=Profile+Views&color=FF5C39&style=for-the-badge"/>
 </div>
 
 ---
@@ -124,14 +124,14 @@ Consistent practice with Data Structures & Algorithms — building strong logica
 
 | 🔗 Project | 🛠 Stack | 📝 Description |
 |---|---|---|
-| [**LeetLens**](https://sk-pandey.github.io/LeetLens/) | React · Tailwind · API | LeetCode profile analyser — stats, contest rating & performance trends |
-| [**Sage University**](https://sk-pandey.github.io/Sage-University-Indore/) | React · Tailwind | University website with animated UI & Student ID Card Generator |
-| [**Spotify Clone**](https://sk-pandey.github.io/SpotifyClone/) | HTML · CSS · JS | Pixel-accurate Spotify UI clone with player controls |
-| [**Zenith**](https://sk-pandey.github.io/Zenith/) | React · Vite · Tailwind | Modern task manager — create, track, complete & delete tasks |
-| [**MovieZone**](https://sk-pandey.github.io/MovieZone/) | React · Movie API | Live movie discovery app with search & responsive grid |
-| [**Weatherify**](https://sk-pandey.github.io/Weatherify/) | JS · Weather API | Weather checker with location-based suggestions |
-| [**Connectly**](https://sk-pandey.github.io/Contacts/) | React · Vite · Tailwind | Glassmorphism contact manager — add, edit, delete & search |
-| [**StudentManager**](https://sk-pandey.github.io/StudentManager/) | React · DaisyUI | Student records management system |
+| [**LeetLens**](https://skpandeyyy.github.io/LeetLens/) | React · Tailwind · API | LeetCode profile analyser — stats, contest rating & performance trends |
+| [**Sage University**](https://skpandeyyy.github.io/Sage-University-Indore/) | React · Tailwind | University website with animated UI & Student ID Card Generator |
+| [**Spotify Clone**](https://skpandeyyy.github.io/SpotifyClone/) | HTML · CSS · JS | Pixel-accurate Spotify UI clone with player controls |
+| [**Zenith**](https://skpandeyyy.github.io/Zenith/) | React · Vite · Tailwind | Modern task manager — create, track, complete & delete tasks |
+| [**MovieZone**](https://skpandeyyy.github.io/MovieZone/) | React · Movie API | Live movie discovery app with search & responsive grid |
+| [**Weatherify**](https://skpandeyyy.github.io/Weatherify/) | JS · Weather API | Weather checker with location-based suggestions |
+| [**Connectly**](https://skpandeyyy.github.io/Contacts/) | React · Vite · Tailwind | Glassmorphism contact manager — add, edit, delete & search |
+| [**StudentManager**](https://skpandeyyy.github.io/StudentManager/) | React · DaisyUI | Student records management system |
 
 </div>
 
@@ -148,7 +148,7 @@ Consistent practice with Data Structures & Algorithms — building strong logica
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sk-Pandey&theme=github-compact&bg_color=0D1117&color=FF5C39&line=FF8C42&point=FFB347&area=true&area_color=FF5C39&hide_border=false&border_color=FF5C39"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skpandeyyy&theme=github-compact&bg_color=0D1117&color=FF5C39&line=FF8C42&point=FFB347&area=true&area_color=FF5C39&hide_border=false&border_color=FF5C39"/>
 
 </div>
 
@@ -174,9 +174,9 @@ Consistent practice with Data Structures & Algorithms — building strong logica
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sk-Pandey/Sk-Pandey/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sk-Pandey/Sk-Pandey/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sk-Pandey/Sk-Pandey/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skpandeyyy/skpandeyy/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skpandeyyy/skpandeyyy/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/skpandeyyy/skpandeyyy/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
