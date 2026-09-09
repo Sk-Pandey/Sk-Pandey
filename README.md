@@ -137,20 +137,9 @@ Consistent practice with Data Structures & Algorithms — building strong logica
 
 ---
 
-### 📊 GitHub Analytics
-
-
-<br/>
 
 
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=skpandeyyy&theme=github-compact&bg_color=0D1117&color=FF5C39&line=FF8C42&point=FFB347&area=true&area_color=FF5C39&hide_border=false&border_color=FF5C39"/>
-
-</div>
 
 
 ### 🌟 Achievements & Certifications
